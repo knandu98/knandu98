@@ -1,7 +1,5 @@
 # Hello, I'm Karthik
 
-# Hi, I'm Karthik 👋
-
 I'm a Master's student in **Digital Engineering** with experience across **full-stack web development, data engineering, analytics automation, cloud data pipelines, and AI-integrated workflows**.
 
 My recent work focuses on building engineering dashboards, backend services, and reproducible analytics pipelines for battery testing and manufacturing data. I enjoy working at the intersection of **software engineering, data platforms, and intelligent automation**, especially in automotive and industrial environments where reliable data workflows support better planning and decision-making.
